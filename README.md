@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Zer0notC00l
 - 👀 I’m interested in crypto
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning math
+- 💞️ I’m looking to collaborate on node runners
+
 
 <!---
 Zer0notC00l/Zer0notC00l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
