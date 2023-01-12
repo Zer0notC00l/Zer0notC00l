@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zer0notC00l
 - 👀 I’m interested in crypto
-- 🌱 I’m currently learning math
+- 🌱 I’m currently learning phyton, rust, solidity
 - 💞️ I’m looking to collaborate on node runners
 
 
